@@ -1,3 +1,4 @@
 Exercício desafio durante o primeiro módulo do Bootcamp de ciência de dados:
 
 - Criação de uma repositório. 
+- Correção. 
